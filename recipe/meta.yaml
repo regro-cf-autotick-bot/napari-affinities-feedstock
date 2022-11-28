@@ -29,6 +29,7 @@ requirements:
     - gunpowder
     - affogato
     - matplotlib-base
+    - lsds
 
 test:
   imports:
